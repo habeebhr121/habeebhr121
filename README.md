@@ -16,31 +16,20 @@ I’m a passionate Flutter developer and ML enthusiast from India 🇮🇳, buil
 ## 🛠️ Technologies I Use
 
 **Languages:**  
-`Dart` | `Python` | `Java` | `C/C++ (basics)`
+`Dart` | `Python` | `C/C++ ` | `MQL5`
 
 **Frameworks & Tools:**  
-`Flutter` | `Firebase` | `PyTorch` | `NumPy` | `pandas` | `scikit-learn` | `Git` | `Android Studio` | `VS Code`
-
-**Other:**  
-`REST APIs` | `State Management (Provider)` | `UI/UX Design Principles` | `GitHub Projects`
+`Flutter` | `Firebase` | `PyTorch` | `NumPy` | `pandas` | `scikit-learn` | `Android Studio` | `VS Code`
 
 ---
 
 ## 📂 Projects
 
-🔹 [Delivery App – Flutter](https://github.com/yourusername/flutter-delivery-app)  
+🔹 [Delivery App – Flutter](https://github.com/habeebhr121/hhr121-0.git)  
 > A responsive delivery app with product listing and cart functionality. (UI only)
 
-🔹 [Financial Transaction App – CONUT](https://github.com/yourusername/conut-financial-app)  
+🔹 [Financial Transaction App – CONUT](https://github.com/habeebhr121/hhr121-2.git)  
 > Income & expense tracking app for a small business, built using Flutter and Provider.
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Add if available)*
-- 💻 [GitHub](https://github.com/habeebrahman)
-- ✉️ habeeb@example.com *(Add only if you're okay sharing it)*
 
 ---
 
