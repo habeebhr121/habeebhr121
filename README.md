@@ -9,7 +9,7 @@ I’m a passionate Flutter developer and ML enthusiast from India 🇮🇳, buil
 - 🔧 **Freelance Flutter Developer** at CONUT (2-month onsite contract)
 - 📱 Built a **Delivery App** and a **Financial Transaction App** in Flutter
 - 🤖 Learning and building with **PyTorch**, **pandas**, and **scikit-learn**
-- 💡 Always learning through hands-on projects (with AI tools as mentors 😉)
+- 💡 Constantly learning with help from AI tools to enhance my workflow and projects
 
 ---
 
@@ -29,18 +29,18 @@ I’m a passionate Flutter developer and ML enthusiast from India 🇮🇳, buil
 ## 📂 Projects
 
 🔹 [Delivery App – Flutter](https://github.com/yourusername/flutter-delivery-app)  
-> Product listing, cart, and responsive layout built using Flutter. UI only (backend excluded).
+> A responsive delivery app with product listing and cart functionality. (UI only)
 
-🔹 [Financial Transaction App (CONUT)](https://github.com/yourusername/conut-financial-app)  
-> Income/Expense tracking app built for a small company using Flutter and Provider.
+🔹 [Financial Transaction App – CONUT](https://github.com/yourusername/conut-financial-app)  
+> Income & expense tracking app for a small business, built using Flutter and Provider.
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) (add your link if you have)
-- 💻 [GitHub](https://github.com/yourusername)
-- ✉️ habeebrahman@example.com *(replace with actual email if comfortable)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Add if available)*
+- 💻 [GitHub](https://github.com/habeebrahman)
+- ✉️ habeeb@example.com *(Add only if you're okay sharing it)*
 
 ---
 
